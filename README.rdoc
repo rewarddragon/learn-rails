@@ -1,6 +1,6 @@
 == README
 
-Learning Ruby on Rails using the... you guessed it!  Learn Ruby on Rails book by Daniel Hehoe.
+Learning Ruby on Rails using the... you guessed it!  Learn Ruby on Rails book by Daniel Kehoe.
 
 Everything is going surprisingly well so far.
 I have created a repository and my first project (Well technically second since the tutorial on using nitrous.io
