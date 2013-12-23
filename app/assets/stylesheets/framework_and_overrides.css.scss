@@ -23,14 +23,16 @@
   }
 // create your own classes
 // to make views framework-neutral
+// originally six-columns-centered 
 .column {
-  @include six-columns-centered;
+  @include twelve-columns;
   }
 .form {
   @include grid-column(6);
   }
+// originally six-columns-centered 
 .form-centered {
-  @include six-columns-centered;
+  @include twelve-columns;
   }
 .submit {
   @extend .button;
